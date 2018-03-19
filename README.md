@@ -14,13 +14,15 @@ Estimate a bounding box for vehicles detected.
 Instructions
 ------------
 
-1. Read and follow the instructions in https://github.com/udacity/CarND-Term1-Starter-Kit/blob/master/README.md to set up your Conda development environment.
+1. Read and follow the instructions [here](https://github.com/udacity/CarND-Term1-Starter-Kit/blob/master/README.md) to set up your Conda development environment.
 
 2. Clone this repository
 
 > git clone https://github.com/vmonestel/CarND-Vehicle-Detection.git
 
-3. Open the code located in the IPYthon Notebook
+3. Download and extract the [vehicle](https://s3.amazonaws.com/udacity-sdc/Vehicle_Tracking/vehicles.zip) and [non-vehicle](https://s3.amazonaws.com/udacity-sdc/Vehicle_Tracking/vehicles.zip) data sets.
+
+4. Open the code located in the IPYthon Notebook
 
 The project code is in a jupyter notebook (Jupyter is an Ipython notebook where you can run blocks of code and see results interactively).
 
